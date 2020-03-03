@@ -1,11 +1,10 @@
 Package: ABWRdata
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: Datasets for Analyzing Baseball Data with R
+Version: 0.5
+Author: Jim Albert
+Maintainer: Jim Albert <albert@bgsu.edu>
+Description: Datasets  to accompany Marchi, Albert, and Baumer, "Analyzing Baseball Data with R, 2nd Edition", CRC Press, (2018, ISBN: 1466570229).
+License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true

@@ -1,14 +1,14 @@
-\name{all1968}
-\alias{all1968}
+\name{all1998}
+\alias{all1998}
 
 \title{
   Retrosheet play-by-play data
 }
 \description{
- Retrosheet play-by-play data for complete 1968 season
+ Retrosheet play-by-play data for complete 1998 season
 }
 \usage{
-  all1968
+  all1998
 }
 \format{
    A data frame with 195,012 observations on the following 97 variables.
