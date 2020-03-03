@@ -4,8 +4,9 @@ by Max Marchi, Jim Albert, and Ben Baumer
 
 This package contains many of the datasets explored in the text.
 
-To install:
+To install, type in the R console:
 
 library(remotes)
+
 install_github("bayesball/ABWRdata")
 
